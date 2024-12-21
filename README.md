@@ -81,6 +81,6 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or support, please reach out to:
 - **Name**: Abhishek Singh
 - **Email**: sabhisheksingh343204@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/abhishek-singh-bba2662a9)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/abhishek-singh-bba2662a9)
 
 - - -
